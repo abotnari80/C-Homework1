@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Homework\\Seminar1\\Seminar1.csproj": {}
+    "C:\\Users\\user\\Desktop\\Homework\\Seminar1\\Задача1\\Задача1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Homework\\Seminar1\\Seminar1.csproj": {
+    "C:\\Users\\user\\Desktop\\Homework\\Seminar1\\Задача1\\Задача1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Homework\\Seminar1\\Seminar1.csproj",
-        "projectName": "Seminar1",
-        "projectPath": "C:\\Users\\user\\Desktop\\Homework\\Seminar1\\Seminar1.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Homework\\Seminar1\\Задача1\\Задача1.csproj",
+        "projectName": "Задача1",
+        "projectPath": "C:\\Users\\user\\Desktop\\Homework\\Seminar1\\Задача1\\Задача1.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Homework\\Seminar1\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Homework\\Seminar1\\Задача1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

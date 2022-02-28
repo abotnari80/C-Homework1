@@ -17,6 +17,6 @@ else
     Console.Write("max ");
     Console.WriteLine(a);
     Console.Write("min ");
-    Console.WriteLine(a);
+    Console.WriteLine(b);
 }
 
